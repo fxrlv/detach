@@ -1,4 +1,4 @@
-# detach
+# detach [![Go Reference](https://pkg.go.dev/badge/github.com/fxrlv/detach.svg)](https://pkg.go.dev/github.com/fxrlv/detach)
 
 ```go
 package main
